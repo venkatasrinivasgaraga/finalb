@@ -1,1 +1,5 @@
 pip install pyrogram tgcrypto guessit pymediainfo
+pyrogram
+tgcrypto
+guessit
+pymediainfo
